@@ -14,8 +14,11 @@
 // 定义在屏幕上显示分数的位置
 #define COMPUTER_SCORE_X	10			// 计算机得分位置
 #define COMPUTER_SCORE_Y	10
-#define PLAYER_SCORE_X		150			// 玩家得分位置
-#define PLAYER_SCORE_Y		10
+#define PLAYER_SCORE_X		10			// 玩家得分位置
+#define PLAYER_SCORE_Y		40
+#define _W					12			// 分数位置范围
+#define _H					31
+
 
 // 定义游戏中浆的位置
 #define COMPUTER_Y			30			// 电脑玩家浆的位置
